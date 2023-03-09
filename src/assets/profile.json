@@ -1,0 +1,36 @@
+{
+    "name": "Octave Boëlle",
+    "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel lobortis eros. Sed in tellus volutpat, condimentum magna vitae, imperdiet erat. Nulla suscipit nec lacus quis scelerisque.",
+    "infos": [
+        {"name" : "tsfst", "content" : "dqdq"},
+        {"name" : "tsfst", "content" : "dqdq"}
+    ],
+    "skills": [
+        {"name" : "qddqfgs", "ref" : "test"},
+        {"name" : "qddqfgs", "ref" : "test"},
+        {"name" : "qddqfgs", "ref" : "test"},
+        {"name" : "qddqfgs", "ref" : "test"},
+        {"name" : "qddqfgs", "ref" : "test"}],
+    "context": [
+        {"name" : "Formation", "content" : [
+            {"title" : "fghfgds", "text" : ""},
+            {"title" : "fghfgds", "text" : ""}
+
+        ]
+        },
+        {"name" : "Projects", "content" : [
+            {"title" : "fghfgds", "text" : ""}
+        ]
+        },
+        {"name" : "Formation", "content" : [
+            {"title" : "fghfgds", "text" : ""}
+        ]
+        },
+        {"name" : "Voiture", "content" : [
+            {"title" : "fghfgds", "text" : ""},
+            {"title" : "Peaugot 208", "text" : ""}
+
+        ]
+        }
+    ]
+}
